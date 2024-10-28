@@ -1,0 +1,4 @@
+discord~=2.3.2
+discord.py~=2.4.0
+colorlog~=6.8.2
+scapy~=2.5.0
